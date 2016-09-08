@@ -1,0 +1,6 @@
+C:\Users\mrdav\Documents\Code\The Tech Academy\C# and ASP.Net Course\33 of 47 --- DRILL\33 of 47 --- DRILL\bin\Debug\33 of 47 --- DRILL.exe.config
+C:\Users\mrdav\Documents\Code\The Tech Academy\C# and ASP.Net Course\33 of 47 --- DRILL\33 of 47 --- DRILL\bin\Debug\33 of 47 --- DRILL.exe
+C:\Users\mrdav\Documents\Code\The Tech Academy\C# and ASP.Net Course\33 of 47 --- DRILL\33 of 47 --- DRILL\bin\Debug\33 of 47 --- DRILL.pdb
+C:\Users\mrdav\Documents\Code\The Tech Academy\C# and ASP.Net Course\33 of 47 --- DRILL\33 of 47 --- DRILL\obj\Debug\33 of 47 --- DRILL.csprojResolveAssemblyReference.cache
+C:\Users\mrdav\Documents\Code\The Tech Academy\C# and ASP.Net Course\33 of 47 --- DRILL\33 of 47 --- DRILL\obj\Debug\33 of 47 --- DRILL.exe
+C:\Users\mrdav\Documents\Code\The Tech Academy\C# and ASP.Net Course\33 of 47 --- DRILL\33 of 47 --- DRILL\obj\Debug\33 of 47 --- DRILL.pdb
